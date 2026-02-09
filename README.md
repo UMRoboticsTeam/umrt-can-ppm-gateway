@@ -6,7 +6,6 @@ The module uses a PIC18F25K83 microcontroller, which can be programmed through M
 
 ## Hardware Description
 
-
 ## Control Commands
 
 The module follows a J1939-style message structure.
